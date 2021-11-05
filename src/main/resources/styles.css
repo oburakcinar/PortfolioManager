@@ -1,0 +1,9 @@
+.table-view {
+    -fx-background-color: black;
+}
+
+.button {
+    -fx-font: 36px "Serif";
+    -fx-padding: 10;
+    -fx-background-color: #CCFF99;
+}
